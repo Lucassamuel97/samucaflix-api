@@ -3,7 +3,7 @@
     {
       "id": 101,
       "title": "Squid Game",
-      "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+      "description": "Centenas de jogadores sem dinheiro aceitam um convite estranho para competir em jogos infantis. Lá dentro, um prêmio tentador os aguarda — com riscos mortais.",
       "yearLaunched": "2021",
       "link": "/watch/101",
       "castMembers": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-jun"],
@@ -16,7 +16,7 @@
     {
       "id": 102,
       "title": "Space Force",
-      "description": "A four-star general begrudgingly teams up with an eccentric scientist to get the U.S. military's newest agency — Space Force — ready for lift-off.",
+      "description": "Um general de quatro estrelas relutantemente se une a um cientista excêntrico para preparar a mais nova agência militar dos EUA — Space Force — para decolagem.",
       "yearLaunched": "2020",
       "link": "/watch/102",
       "castMembers": ["Steve Carell", "John Malkovich", "Ben Schwartz"],
@@ -29,7 +29,7 @@
     {
       "id": 103,
       "title": "Stranger Things",
-      "description": "A group of young friends must confront terrifying forces in order to get him back.",
+      "description": "Um grupo de jovens amigos deve enfrentar forças aterrorizantes para recuperá-lo.",
       "yearLaunched": "2016",
       "link": "/watch/103",
       "castMembers": ["Millie Bobby Brown", "Finn Wolfhard", "Winona Ryder"],
@@ -42,7 +42,7 @@
     {
       "id": 104,
       "title": "Rick and Morty",
-      "description": "Brilliant but boozy scientist Rick hijacks his fretful teenage grandson, Morty, for wild escapades in other worlds and alternate dimensions.",
+      "description": "O cientista brilhante mas alcoólatra Rick sequestra seu neto adolescente ansioso, Morty, para aventuras selvagens em outros mundos e dimensões alternativas.",
       "yearLaunched": "2013",
       "link": "/watch/104",
       "castMembers": ["Justin Roiland", "Chris Parnell", "Spencer Grammer"],
@@ -55,7 +55,7 @@
     {
       "id": 105,
       "title": "Dark",
-      "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+      "description": "Uma criança desaparecida coloca quatro famílias em uma busca frenética por respostas enquanto descobrem um mistério alucinante que abrange três gerações.",
       "yearLaunched": "2017",
       "link": "/watch/105",
       "castMembers": ["Louis Hofmann", "Karoline Eichhorn", "Lisa Vicari"],
@@ -68,7 +68,7 @@
     {
       "id": 106,
       "title": "Black Mirror",
-      "description": "This sci-fi anthology series explores a twisted, high-tech near-future where humanity's greatest innovations and darkest instincts collide.",
+      "description": "Esta série antológica de ficção científica explora um futuro próximo distorcido e high-tech onde as maiores inovações da humanidade e seus instintos mais sombrios colidem.",
       "yearLaunched": "2011",
       "link": "/watch/106",
       "castMembers": ["Daniel Lapaine", "Hannah John-Kamen", "Michaela Coel"],
@@ -83,7 +83,7 @@
     {
       "id": 1,
       "title": "The Shawshank Redemption",
-      "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+      "description": "Ao longo de vários anos, dois condenados formam uma amizade, buscando consolação e, eventualmente, redenção através da compaixão básica.",
       "yearLaunched": "1994",
       "link": "/watch/1",
       "castMembers": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
@@ -96,7 +96,7 @@
     {
       "id": 2,
       "title": "The Godfather",
-      "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+      "description": "Don Vito Corleone, chefe de uma família da máfia, decide entregar seu império para seu filho mais novo, Michael. No entanto, sua decisão involuntariamente coloca as vidas de seus entes queridos em grave perigo.",
       "yearLaunched": "1972",
       "link": "/watch/2",
       "castMembers": ["Marlon Brando", "Al Pacino", "James Caan"],
