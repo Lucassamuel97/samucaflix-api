@@ -1,7 +1,7 @@
 {
-  "name": "json-server-vercel",
+  "name": "samucalix-api",
   "version": "1.0.0",
-  "description": "Deploy JSON Server to Vercel",
+  "description": "API REST para streaming Samucalix - Deploy JSON Server to Vercel",
   "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js"
